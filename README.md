@@ -5,6 +5,8 @@
 ### Description ###
 The Pixel Art Maker is a Lab project from the Udacity Front-End Web Developer Nanodegree Program. It is based on the concepts learnt in the program, and to test Web Development skills.
 
+![picture](https://github.com/imrajatgupta/Pixel-Art-Maker/blob/master/Pixel-Art-Maker.png)
+
 #### How to use: ####
 1) Clone/download the project.
 2) Double click `index.html` to run the web app.
